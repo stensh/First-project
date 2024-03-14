@@ -40,3 +40,5 @@ How to use the project
 Credits 
 
 License
+
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/{owner}/{repo}/CI?label=build)
