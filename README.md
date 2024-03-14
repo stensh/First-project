@@ -41,4 +41,4 @@ Credits
 
 License
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/{owner}/{repo}/CI?label=build)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/{stensh}/{First-Project}/CI?label=build)
