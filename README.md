@@ -11,7 +11,7 @@ Le langage utilisé pour ce projet est le C++ et la biblliothèque d'interface g
 
 Le jeu d'Othello est un jeu de stratégie sur grille à deux joueurs. 
 Il se joue sur un plateau de 8 sur 8, soit 64 cases appelé othellier. 
-Les 64 pions on chacun une face noire et une face blanche. 
+Les 64 pions ont chacun une face noire et une face blanche. 
 
 ### But du jeu
 
